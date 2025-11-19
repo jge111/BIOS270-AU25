@@ -14,5 +14,7 @@ dependencies:
   - r-essentials
   - rpy2
   - seaborn
+  - pip:
+    - parasail==1.3.4
 
 prefix: "/home/users/tjge/micromamba/envs/bioinfo_example"
